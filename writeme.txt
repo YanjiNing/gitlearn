@@ -1,4 +1,3 @@
-igit is a distributed version system
-git is a control 
+git is a distributed version system
 git is a very nice control system 
 git is a ubuntu system branch master
