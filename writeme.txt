@@ -4,4 +4,5 @@ git is a ubuntu system branch master
 git is a perfect system control
 git is a nice control system
 git 
-create a new branch is quick 
+create a new branch is quick & simple
+
